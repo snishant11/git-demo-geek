@@ -8,3 +8,25 @@ for root directory cd ~
 
 git init ----Initialized empty Git repository in E:/git-demo-geek/.git/
 
+if a folder contain . initally its a hidden folder
+for hidden folder ls -a
+
+for one folder back cd ..
+
+for checking version git --version
+
+
+git status --- will tells on which branch how many untracked files and 
+              if commits happens or not
+git add file_name      the file which we want to index
+
+
+  git commit -m
+
+ command sub-command flag
+
+
+
+
+
+
