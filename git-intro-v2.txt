@@ -1,0 +1,10 @@
+pwd ---current working directory
+
+ls ---- list of all file and folder
+
+my document if like that place in between 'my document '
+
+for root directory cd ~
+
+git init ----Initialized empty Git repository in E:/git-demo-geek/.git/
+
