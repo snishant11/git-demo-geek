@@ -14,7 +14,7 @@ for hidden folder ls -a
 for one folder back cd ..
 
 for checking version git --version
-
+git config --list
 
 git status --- will tells on which branch how many untracked files and 
               if commits happens or not
@@ -24,6 +24,34 @@ git add file_name      the file which we want to index
   git commit -m
 
  command sub-command flag
+
+git branch ==== two see all branch
+
+git branc branch name to create new branch
+
+
+git switch branch_name to switch from one branch to another branch
+
+
+
+cat git-intro-v2.txt
+
+
+from branch
+
+
+now from main
+
+git merge
+
+
+
+echo 'hello world' > file-1.txt overwrite the file
+echo 'hello all' >> file.1.txt add hello all not orvewrite
+
+repo, workflow, write packages
+
+
 
 
 
